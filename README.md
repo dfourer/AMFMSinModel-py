@@ -29,7 +29,8 @@ Requires Python 3.9+ and the following packages:
 
 ```bash
 pip install numpy scipy matplotlib
-
+```
+---
 
 ## License
 
